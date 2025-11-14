@@ -1,0 +1,5 @@
+{
+  "name": "CodeAI: Live Code Editor & Previewer",
+  "description": "An AI-powered code generator that allows you to write a prompt, get complete HTML/CSS/JS code, and see a live, editable preview instantly. Modify the code and watch your changes update in real-time.",
+  "requestFramePermissions": []
+}
